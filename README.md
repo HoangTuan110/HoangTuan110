@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Tuan (or Tsuki), and I am a 14 year old student who likes making CLI programs and quick scripts.
+
+[![Visits Badge](https://badges.pufler.dev/visits/HoangTuan110/HoangTuan110)](https://tsk.bearblog.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DangHoangTuan20)

@@ -22,4 +22,7 @@ I am Tuan (or Tsuki), and I am a 14 year old Vietnamese student who likes making
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I practice typing in Workman today. Here is my experience.](http://tsk.bearblog.dev/practice-workman/)
+- [wordlefind - A little tool to help me play Wordle.](http://tsk.bearblog.dev/wordlefind/)
+- [Hello there!](http://tsk.bearblog.dev/hello-there/)
 <!-- BLOG-POST-LIST:END -->

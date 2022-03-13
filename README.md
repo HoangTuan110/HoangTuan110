@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **HoangTuan110/HoangTuan110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Tuan (or Tsuki), and I am a 14 year old Vietnamese student who likes making CLI programs and sometimes games.
+I am Tuan, and I am a 14 year old Vietnamese student who likes making CLI programs and sometimes games.
+I specializes on beautiful CLI programs and Python.
 
 [![Visits Badge](https://badges.pufler.dev/visits/HoangTuan110/HoangTuan110)](https://tsk.bearblog.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DangHoangTuan20)

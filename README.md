@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Tuan (or Tsuki), and I am a 14 year old student who likes making CLI programs and quick scripts.
+I am Tuan (or Tsuki), and I am a 14 year old Vietnamese student who likes making CLI programs and sometimes games.
 
 [![Visits Badge](https://badges.pufler.dev/visits/HoangTuan110/HoangTuan110)](https://tsk.bearblog.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DangHoangTuan20)
+
+# My latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

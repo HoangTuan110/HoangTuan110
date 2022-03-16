@@ -23,6 +23,7 @@ I specializes on beautiful CLI programs and Python.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Some of my best programming language that I have designed](http://tsk.bearblog.dev/prog-lang-design-best/)
 - [I practice typing in Workman today. Here is my experience.](http://tsk.bearblog.dev/practice-workman/)
 - [wordlefind - A little tool to help me play Wordle.](http://tsk.bearblog.dev/wordlefind/)
 - [Hello there!](http://tsk.bearblog.dev/hello-there/)

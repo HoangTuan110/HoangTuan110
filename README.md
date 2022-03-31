@@ -23,9 +23,9 @@ I specializes on beautiful CLI programs and Python.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lesson learned from a Show HN](http://tsk.bearblog.dev/lesson-learned-from-a-show-hn/)
 - [Journal of writing Lipu - A clean Hacker News interface in the browser](http://tsk.bearblog.dev/journal-lipu/)
 - [Projects](http://tsk.bearblog.dev/projects/)
 - [Some of my best programming language that I have designed](http://tsk.bearblog.dev/prog-lang-design-best/)
 - [I practice typing in Workman today. Here is my experience.](http://tsk.bearblog.dev/practice-workman/)
-- [wordlefind - A little tool to help me play Wordle.](http://tsk.bearblog.dev/wordlefind/)
 <!-- BLOG-POST-LIST:END -->

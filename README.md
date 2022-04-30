@@ -23,9 +23,9 @@ I specializes on beautiful CLI programs and Python.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Update Life #3](http://tsk.bearblog.dev/update-life-3/)
 - [Updating Life #2](http://tsk.bearblog.dev/updating-life-2/)
 - [Banana stylus pen](http://tsk.bearblog.dev/banana-stylus-pen/)
 - [A list of cool ideas](http://tsk.bearblog.dev/a-list-of-cool-ideas/)
 - [My Blog&#39;s CSS Style](http://tsk.bearblog.dev/blog-css-style/)
-- [Updating life](http://tsk.bearblog.dev/updating-life-1/)
 <!-- BLOG-POST-LIST:END -->

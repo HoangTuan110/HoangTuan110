@@ -29,3 +29,7 @@ I specializes on beautiful CLI programs and Python.
 - [A list of cool ideas](http://tsk.bearblog.dev/a-list-of-cool-ideas/)
 - [My Blog&#39;s CSS Style](http://tsk.bearblog.dev/blog-css-style/)
 <!-- BLOG-POST-LIST:END -->
+
+# Credits
+
+Credits to Linda Ball for the [Rabbit PFP](https://www.asciiart.eu/animals/rabbits)

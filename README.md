@@ -23,11 +23,11 @@ I specializes on beautiful CLI programs and Python.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL that when I access to Hacker News using any Wifi except my home&#39;s Wifi, it refuses to connect](http://tsk.bearblog.dev/til-hacker-news-dont-work-outside-my-homes-wifi/)
 - [Fig: The controversial terminal project](http://tsk.bearblog.dev/fig-the-controversial-terminal-project/)
 - [Update Life #3](http://tsk.bearblog.dev/update-life-3/)
 - [Updating Life #2](http://tsk.bearblog.dev/updating-life-2/)
 - [Banana stylus pen](http://tsk.bearblog.dev/banana-stylus-pen/)
-- [A list of cool ideas](http://tsk.bearblog.dev/a-list-of-cool-ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 # Credits

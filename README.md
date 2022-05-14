@@ -31,11 +31,11 @@ My name is `tsuki` because of one time that I played a game called `Tsuki Odysse
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Ngrok to share a preview of your web project to everyone!](http://tsk.bearblog.dev/use-ngrok-to-share-preview-of-your-website/)
 - [Why my name is Tsuki](http://tsk.bearblog.dev/why-tsuki/)
 - [Should I start a newsletter?](http://tsk.bearblog.dev/should-i-start-a-newsletter/)
 - [Web extensions that I use](http://tsk.bearblog.dev/web-extensions-that-i-use/)
 - [TIL that when I access to Hacker News using any Wifi except my home&#39;s Wifi, it refuses to connect](http://tsk.bearblog.dev/til-hacker-news-dont-work-outside-my-homes-wifi/)
-- [Fig: The controversial terminal project](http://tsk.bearblog.dev/fig-the-controversial-terminal-project/)
 <!-- BLOG-POST-LIST:END -->
 
 # Credits

@@ -31,7 +31,7 @@ My name is `tsuki` because of one time that I played a game called `Tsuki Odysse
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I write](http://tsk.bearblog.dev/how-i-write/)
+- [The tools I use to write blogs](http://tsk.bearblog.dev/the-tools-i-use-to-write-blogs/)
 - [Programming burnout](http://tsk.bearblog.dev/programming-burnout/)
 - [Use Ngrok to share a preview of your web project to everyone!](http://tsk.bearblog.dev/use-ngrok-to-share-preview-of-your-website/)
 - [Why my name is Tsuki](http://tsk.bearblog.dev/why-tsuki/)

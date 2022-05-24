@@ -27,7 +27,7 @@ My name is `tsuki` because of one time that I played a game called `Tsuki Odysse
 
 # How to reach to me
 
-[Email me](mailto:danghoangtuan526@protonmail.com) or [Go to my blog][https://tsk.bearblog.dev] for more options.
+[Email me](mailto:danghoangtuan526@protonmail.com) or [Go to my social](https://tsk.bearblog.dev/social-media/) for more options.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->

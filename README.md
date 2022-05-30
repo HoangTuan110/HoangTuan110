@@ -31,11 +31,11 @@ My name is `tsuki` because of one time that I played a game called `Tsuki Odysse
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [URL Shortener Gift](http://tsk.bearblog.dev/url-shortener-gift/)
 - [A thing about numbers](http://tsk.bearblog.dev/a-thing-about-numbers/)
 - [NextJS is delightful](http://tsk.bearblog.dev/nextjs-is-delightful/)
 - [Who are you?](http://tsk.bearblog.dev/who-are-you/)
 - [The tools I use to write blogs](http://tsk.bearblog.dev/the-tools-i-use-to-write-blogs/)
-- [Programming burnout](http://tsk.bearblog.dev/programming-burnout/)
 <!-- BLOG-POST-LIST:END -->
 
 # Credits

@@ -37,7 +37,3 @@ My name is `tsuki` because of one time that I played a game called `Tsuki Odysse
 - [Dead links, and how to handle them](http://tsk.bearblog.dev/dead-links-and-how-to-fix-them/)
 - [Feeling down](http://tsk.bearblog.dev/feeling-down/)
 <!-- BLOG-POST-LIST:END -->
-
-# Credits
-
-Credits to Linda Ball for the [Rabbit PFP](https://www.asciiart.eu/animals/rabbits)

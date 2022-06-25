@@ -31,9 +31,9 @@ My name is `tsuki` because of one time that I played a game called `Tsuki Odysse
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reviewing Bear&#39;s new Discovery feed](http://tsk.bearblog.dev/reviewing-bear-blog-new-discovery-feed/)
 - [Update on the healing since the bike ride accident](http://tsk.bearblog.dev/update-on-the-healing-bike-accident/)
 - [Nothing to do](http://tsk.bearblog.dev/nothing-to-do/)
 - [I hurt myself in a bike ride](http://tsk.bearblog.dev/i-hurt-myself/)
 - [A dumb mistake](http://tsk.bearblog.dev/a-dumb-mistake/)
-- [Pushing my physical limit](http://tsk.bearblog.dev/pushing_my_physical_limit/)
 <!-- BLOG-POST-LIST:END -->

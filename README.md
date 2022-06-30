@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Tracker script -->
+<script data-goatcounter="https://tsukii.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+<!-- End tracker script -->
+
 [![Visits Badge](https://badges.pufler.dev/visits/HoangTuan110/HoangTuan110)](https://tsk.bearblog.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DangHoangTuan20)
 

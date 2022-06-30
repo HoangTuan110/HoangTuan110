@@ -37,3 +37,5 @@ My name is `tsuki` because of one time that I played a game called `Tsuki Odysse
 - [Nothing to do](http://tsk.bearblog.dev/nothing-to-do/)
 - [I hurt myself in a bike ride](http://tsk.bearblog.dev/i-hurt-myself/)
 <!-- BLOG-POST-LIST:END -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangTuan110)](https://github.com/anuraghazra/github-readme-stats)

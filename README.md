@@ -31,11 +31,11 @@ My name is `tsuki` because of one time that I played a game called `Tsuki Odysse
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Subreply CSS - A beautiful classless CSS style](http://tsk.bearblog.dev/introducing-subreply-css/)
 - [Don&#39;t have any expectations for your project](http://tsk.bearblog.dev/dont-have-any-expectations/)
 - [Reviewing Bear&#39;s new Discovery feed](http://tsk.bearblog.dev/reviewing-bear-blog-new-discovery-feed/)
 - [Update on the healing since the bike ride accident](http://tsk.bearblog.dev/update-on-the-healing-bike-accident/)
 - [Nothing to do](http://tsk.bearblog.dev/nothing-to-do/)
-- [I hurt myself in a bike ride](http://tsk.bearblog.dev/i-hurt-myself/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangTuan110)](https://github.com/anuraghazra/github-readme-stats)

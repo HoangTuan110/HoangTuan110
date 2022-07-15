@@ -31,11 +31,11 @@ My name is `tsuki` because of one time that I played a game called `Tsuki Odysse
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A notebook is a human&#39;s best friend](http://tsk.bearblog.dev/a-notebook-is-a-humans-best-friend/)
 - [I am bored](http://tsk.bearblog.dev/i-am-bored/)
 - [New bloggers](http://tsk.bearblog.dev/new-bloggers/)
 - [My first steps of getting rid of social media](http://tsk.bearblog.dev/my-first-steps-of-getting-rid-of-social-media/)
 - [Very tired](http://tsk.bearblog.dev/very-tired/)
-- [A quick review of the Fresh web framework](http://tsk.bearblog.dev/a-quick-review-of-fresh-web-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangTuan110)](https://github.com/anuraghazra/github-readme-stats)

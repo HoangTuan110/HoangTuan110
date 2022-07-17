@@ -22,7 +22,7 @@ Hi! I am Tuan, and I make programs every so often. Mostly in Python and Go.
 
 # How to reach to me
 
-[Email me](mailto:danghoangtuan526@protonmail.com) or [Go to my social](https://tsk.bearblog.dev/social-media/) for more options.
+[Email me](mailto:mail@dht.anonaddy.me) or [Go to my social](https://tsk.bearblog.dev/social-media/) for more options.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->

@@ -26,11 +26,11 @@ Hi! I am Tuan, and I make programs every so often. Mostly in Python and Go.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to sleep like a 7 year-old](http://tsk.bearblog.dev/how-to-sleep-like-a-7-year-old/)
-- [A notebook is a human&#39;s best friend](http://tsk.bearblog.dev/a-notebook-is-a-humans-best-friend/)
-- [I am bored](http://tsk.bearblog.dev/i-am-bored/)
-- [New bloggers](http://tsk.bearblog.dev/new-bloggers/)
-- [My first steps of getting rid of social media](http://tsk.bearblog.dev/my-first-steps-of-getting-rid-of-social-media/)
+- [How to sleep like a 7 year-old](https://tsk.bearblog.dev/how-to-sleep-like-a-7-year-old/)
+- [A notebook is a human&#39;s best friend](https://tsk.bearblog.dev/a-notebook-is-a-humans-best-friend/)
+- [I am bored](https://tsk.bearblog.dev/i-am-bored/)
+- [New bloggers](https://tsk.bearblog.dev/new-bloggers/)
+- [My first steps of getting rid of social media](https://tsk.bearblog.dev/my-first-steps-of-getting-rid-of-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangTuan110)](https://github.com/anuraghazra/github-readme-stats)

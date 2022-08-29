@@ -26,11 +26,11 @@ Hi! I am Tuan, and I make programs every so often. Mostly in Python and Go.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Try Twitter Threads](https://tsk.bearblog.dev/try-twitter-threads/)
 - [Practice the Capture Habit](https://tsk.bearblog.dev/practice-the-capture-habit/)
 - [Escape The Never-Ending Now](https://tsk.bearblog.dev/escape-the-never-ending-now/)
 - [Archiving blogs on Bear](https://tsk.bearblog.dev/archiving-blogs-on-bear/)
 - [A sympathy for old anime shows](https://tsk.bearblog.dev/a-sympathy-for-old-anime-shows/)
-- [Is what I am doing productive?](https://tsk.bearblog.dev/is-what-i-am-doing-productive/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangTuan110)](https://github.com/anuraghazra/github-readme-stats)

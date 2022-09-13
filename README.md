@@ -26,11 +26,11 @@ Hi! I am Tuan, and I make programs every so often. Mostly in Python and Go.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Research papers are weird as hell](https://tsk.bearblog.dev/research-papers-are-weird-as-hell/)
 - [Note-taking isn&#39;t rocket science](https://tsk.bearblog.dev/note-taking-isnt-rocket-science/)
 - [A Strangely Cold Day](https://tsk.bearblog.dev/a-strangely-cold-day/)
 - [Have RSS Subscription &lpar;It&#39;s not dead yet&rpar;](https://tsk.bearblog.dev/have-rss/)
 - [Don&#39;t Publish and Pray](https://tsk.bearblog.dev/dont-publish-and-pray/)
-- [Have Decent UX](https://tsk.bearblog.dev/have-decent-ux/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangTuan110)](https://github.com/anuraghazra/github-readme-stats)

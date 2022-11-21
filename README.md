@@ -26,11 +26,11 @@ Hi! I am Tuan, and I make programs every so often. Mostly in Python and Go.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Suffering with life](https://tsk.bearblog.dev/suffering-with-life/)
 - [On blogging](https://tsk.bearblog.dev/on-blogging/)
 - [On Twitter](https://tsk.bearblog.dev/on-twitter/)
 - [Arrows - a small experimental puzzle game](https://tsk.bearblog.dev/arrows-a-small-experimental-puzzle-game/)
 - [Cool tricks in K](https://tsk.bearblog.dev/cool-tricks-in-k/)
-- [Going outside when I am stressed](https://tsk.bearblog.dev/going-outside-when-i-am-stressed/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangTuan110)](https://github.com/anuraghazra/github-readme-stats)

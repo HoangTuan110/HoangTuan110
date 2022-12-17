@@ -26,11 +26,11 @@ Hi! I am Tuan, and I make programs every so often. Mostly in Python and Go.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello Kitty motor oil](https://tsk.bearblog.dev/hello-kitty-motor-oil/)
 - [Negative sentences as mathematical proofs](https://tsk.bearblog.dev/negative-sentences-as-mathematical-proofs/)
 - [1 year of blogging](https://tsk.bearblog.dev/1-year-of-blogging/)
 - [To the people who sent me nice emails...](https://tsk.bearblog.dev/to-the-people-who-sent-me-nice-emails/)
 - [&quot;Why?&quot;](https://tsk.bearblog.dev/why/)
-- [I love watching reaction videos](https://tsk.bearblog.dev/i-love-watching-reaction-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangTuan110)](https://github.com/anuraghazra/github-readme-stats)

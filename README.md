@@ -26,11 +26,11 @@ Hi! I am Tuan, and I make programs every so often. Mostly in Python and Go.
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing burnout](https://tsk.bearblog.dev/writing-burnout/)
 - [Why I listened to radio stations for working](https://tsk.bearblog.dev/why-i-listened-to-radio-stations-for-working/)
 - [I&#39;m a Youtube addict](https://tsk.bearblog.dev/im-a-youtube-addict/)
 - [Some thoughts on Linux](https://tsk.bearblog.dev/some-thoughts-on-linux/)
 - [How to turn a Bear blog post into a page and add it to the nav bar](https://tsk.bearblog.dev/how-to-turn-a-bear-blog-post-into-a-page-and-add-it-to-the-nav-bar/)
-- [Fame is hard](https://tsk.bearblog.dev/fame-is-hard/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangTuan110)](https://github.com/anuraghazra/github-readme-stats)

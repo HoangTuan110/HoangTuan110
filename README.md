@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/HoangTuan110/HoangTuan110)](https://tsk.bearblog.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DangHoangTuan20)
 
-Hi! I am Tuan, and I make programs every so often. Mostly in Python and Go.
+I makes programs every so often, and in many programming languages. I also makes music, writes for my [personal blog](https://tsk.bearblog.dev), and draws things in pixel art.
 
 # How to reach to me
 
@@ -32,5 +31,7 @@ Hi! I am Tuan, and I make programs every so often. Mostly in Python and Go.
 - [Some thoughts on Linux](https://tsk.bearblog.dev/some-thoughts-on-linux/)
 - [How to turn a Bear blog post into a page and add it to the nav bar](https://tsk.bearblog.dev/how-to-turn-a-bear-blog-post-into-a-page-and-add-it-to-the-nav-bar/)
 <!-- BLOG-POST-LIST:END -->
+
+# GitHub stats just cause
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangTuan110)](https://github.com/anuraghazra/github-readme-stats)

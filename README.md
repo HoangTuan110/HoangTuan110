@@ -25,11 +25,11 @@ I makes programs every so often, and in many programming languages. I also makes
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I got into pixel art](https://tsk.bearblog.dev/how-i-got-into-pixel-art/)
 - [Expanding my creative mediums](https://tsk.bearblog.dev/expanding-my-creative-mediums/)
 - [The amount of hours you sleep is not the problem, it&#39;s how&#39; you sleep](https://tsk.bearblog.dev/the-amount-of-hours-you-sleep-is-not-the-problem-its-how-you-sleep/)
 - [Receiving feedback be like](https://tsk.bearblog.dev/receiving-feedback-be-like/)
 - [Writing burnout](https://tsk.bearblog.dev/writing-burnout/)
-- [Why I listened to radio stations for working](https://tsk.bearblog.dev/why-i-listened-to-radio-stations-for-working/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub stats just cause

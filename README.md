@@ -25,11 +25,11 @@ I makes programs every so often, and in many programming languages. I also makes
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Burnout](https://tsk.bearblog.dev/burnout/)
 - [Don&#39;t write, then](https://tsk.bearblog.dev/dont-write-then/)
 - [The customization obsession](https://tsk.bearblog.dev/the-customization-obsession/)
 - [An old calculator](https://tsk.bearblog.dev/an-outdated-calculator/)
 - [Things that I have learned from writing](https://tsk.bearblog.dev/things-that-i-have-learned-from-writing/)
-- [This blog is kinda dead.](https://tsk.bearblog.dev/this-blog-is-kinda-dead/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub stats just cause
